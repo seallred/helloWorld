@@ -10,3 +10,5 @@ change 3
 2016-03-18: These are changes I am making right now as I attempt to learn how to use git as a repository.
 
 2016-03-18 11:44 AM: Update again using BBEdit but this time updating the testFile.txt
+
+2016-03-18 12:13 PM: I am making this change from GitHub
