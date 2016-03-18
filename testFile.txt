@@ -12,5 +12,7 @@ change 3
 2016-03-18 11:44 AM: Update again using BBEdit but this time updating the testFile.txt
 
 2016-03-18 12:13 PM: I am making this change from GitHub
+
 2016-03-18 12:14 PM: Making the change from bbedit
 
+2016-03-18 12:14 PM: Making another update from GitHub.
